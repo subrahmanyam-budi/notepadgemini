@@ -1,0 +1,6 @@
+{
+  "name": "Notepad",
+  "description": "A clean, elegant, and highly polished notepad app with local auto-save, text metrics, multiple note storage, theme adjustments, search, tagging, and text export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
